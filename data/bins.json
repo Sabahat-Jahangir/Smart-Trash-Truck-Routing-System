@@ -1,0 +1,52 @@
+{
+  "b0": {
+    "bin_id": "b0",
+    "location": [
+      5.573185226999189,
+      5.800087217716081
+    ],
+    "fill_level": 0.2519008203323628,
+    "last_collection": "2025-04-21 23:51:52",
+    "collection_history": []
+  },
+  "b1": {
+    "bin_id": "b1",
+    "location": [
+      2.0812744552104787,
+      9.350261066466665
+    ],
+    "fill_level": 0.26038493858532785,
+    "last_collection": "2025-04-18 23:51:52",
+    "collection_history": []
+  },
+  "b2": {
+    "bin_id": "b2",
+    "location": [
+      1.8923357999733281,
+      1.0597682567747269
+    ],
+    "fill_level": 0.5895401039825456,
+    "last_collection": "2025-04-24 23:51:52",
+    "collection_history": []
+  },
+  "b3": {
+    "bin_id": "b3",
+    "location": [
+      3.848480955136677,
+      5.786002754024331
+    ],
+    "fill_level": 0.12472926029983343,
+    "last_collection": "2025-04-25 23:51:52",
+    "collection_history": []
+  },
+  "b4": {
+    "bin_id": "b4",
+    "location": [
+      0.9004368778373029,
+      0.19987945028075216
+    ],
+    "fill_level": 0.7094975643703146,
+    "last_collection": "2025-04-27 23:51:52",
+    "collection_history": []
+  }
+}
